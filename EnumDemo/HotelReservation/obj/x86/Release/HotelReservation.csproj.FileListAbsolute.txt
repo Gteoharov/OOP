@@ -1,0 +1,4 @@
+/Users/teoharov/Developer/C#/C# OOP/OOP/EnumDemo/HotelReservation/bin/Release/HotelReservation.exe
+/Users/teoharov/Developer/C#/C# OOP/OOP/EnumDemo/HotelReservation/obj/x86/Release/HotelReservation.csprojAssemblyReference.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/EnumDemo/HotelReservation/obj/x86/Release/HotelReservation.csproj.CoreCompileInputs.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/EnumDemo/HotelReservation/obj/x86/Release/HotelReservation.exe

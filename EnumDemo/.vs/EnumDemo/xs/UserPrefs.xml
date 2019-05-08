@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{7F71D1F2-3157-4BD4-8985-76D28D74AB9A}|Default">
+  <MonoDevelop.Ide.ItemProperties.EnumDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HotelReservation/PriceCalculator.cs">
+    <Files>
+      <File FileName="HotelReservation/Program.cs" Line="9" Column="47" />
+      <File FileName="HotelReservation/DiscountType.cs" Line="8" Column="17" />
+      <File FileName="HotelReservation/Season.cs" Line="9" Column="19" />
+      <File FileName="HotelReservation/PriceCalculator.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EnumDemo" expanded="True">
+            <Node name="HotelReservation" expanded="True">
+              <Node name="PriceCalculator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HotelReservation FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

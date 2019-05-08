@@ -1,0 +1,3 @@
+/Users/teoharov/Developer/C#/C# OOP/OOP/EnumDemo/EnumDemo/bin/Release/EnumDemo.exe
+/Users/teoharov/Developer/C#/C# OOP/OOP/EnumDemo/EnumDemo/obj/x86/Release/EnumDemo.csproj.CoreCompileInputs.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/EnumDemo/EnumDemo/obj/x86/Release/EnumDemo.exe
