@@ -1,0 +1,5 @@
+/Users/teoharov/Developer/C#/C# OOP/OOP/AbstractionLab/HotelReservation/bin/Debug/HotelReservation.exe
+/Users/teoharov/Developer/C#/C# OOP/OOP/AbstractionLab/HotelReservation/bin/Debug/HotelReservation.pdb
+/Users/teoharov/Developer/C#/C# OOP/OOP/AbstractionLab/HotelReservation/obj/x86/Debug/HotelReservation.csproj.CoreCompileInputs.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/AbstractionLab/HotelReservation/obj/x86/Debug/HotelReservation.exe
+/Users/teoharov/Developer/C#/C# OOP/OOP/AbstractionLab/HotelReservation/obj/x86/Debug/HotelReservation.pdb

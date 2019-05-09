@@ -1,18 +1,18 @@
-﻿<Properties StartupConfiguration="{224FEEDA-9F83-483D-AFE4-C52903E3EDC2}|Default">
+﻿<Properties StartupConfiguration="{A5C56F32-B98F-44B6-A550-FB52B83FCCEB}|Default">
   <MonoDevelop.Ide.ItemProperties.AbstractionLab PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.PointInRectangle PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PointInRectangle/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HotelReservation/Program.cs">
     <Files>
-      <File FileName="PointInRectangle/Program.cs" Line="33" Column="1" />
-      <File FileName="PointInRectangle/Point.cs" Line="24" Column="24" />
-      <File FileName="PointInRectangle/Rectangle.cs" Line="14" Column="44" />
+      <File FileName="HotelReservation/PriceCalculator.cs" Line="60" Column="15" />
+      <File FileName="HotelReservation/Season.cs" Line="8" Column="15" />
+      <File FileName="HotelReservation/DiscountType.cs" Line="8" Column="20" />
+      <File FileName="HotelReservation/Program.cs" Line="45" Column="40" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="AbstractionLab" expanded="True">
-            <Node name="AbstractionLab" expanded="True" />
-            <Node name="PointInRectangle" expanded="True">
+            <Node name="HotelReservation" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -21,6 +21,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HotelReservation PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
