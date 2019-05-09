@@ -1,0 +1,6 @@
+/Users/teoharov/Developer/C#/C# OOP/OOP/AbstractionLab/AbstractionLab/bin/Debug/AbstractionLab.exe
+/Users/teoharov/Developer/C#/C# OOP/OOP/AbstractionLab/AbstractionLab/bin/Debug/AbstractionLab.pdb
+/Users/teoharov/Developer/C#/C# OOP/OOP/AbstractionLab/AbstractionLab/obj/x86/Debug/AbstractionLab.csprojAssemblyReference.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/AbstractionLab/AbstractionLab/obj/x86/Debug/AbstractionLab.csproj.CoreCompileInputs.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/AbstractionLab/AbstractionLab/obj/x86/Debug/AbstractionLab.exe
+/Users/teoharov/Developer/C#/C# OOP/OOP/AbstractionLab/AbstractionLab/obj/x86/Debug/AbstractionLab.pdb
