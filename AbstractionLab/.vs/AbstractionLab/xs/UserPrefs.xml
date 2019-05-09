@@ -1,13 +1,21 @@
-﻿<Properties StartupConfiguration="{257FE771-8FB5-4BCE-9790-FC4C628BEB24}|Default">
-  <MonoDevelop.Ide.ItemProperties.AbstractionLab FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractionLab/Program.cs">
+﻿<Properties StartupConfiguration="{224FEEDA-9F83-483D-AFE4-C52903E3EDC2}|Default">
+  <MonoDevelop.Ide.ItemProperties.AbstractionLab PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.PointInRectangle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PointInRectangle/Program.cs">
     <Files>
-      <File FileName="AbstractionLab/Program.cs" Line="13" Column="1" />
+      <File FileName="PointInRectangle/Program.cs" Line="33" Column="1" />
+      <File FileName="PointInRectangle/Point.cs" Line="24" Column="24" />
+      <File FileName="PointInRectangle/Rectangle.cs" Line="14" Column="44" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="AbstractionLab" expanded="True" selected="True" />
+          <Node name="AbstractionLab" expanded="True">
+            <Node name="AbstractionLab" expanded="True" />
+            <Node name="PointInRectangle" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>

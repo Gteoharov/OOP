@@ -1,12 +1,15 @@
-﻿using System;
-
-namespace AbstractionLab
+﻿namespace AbstractionLab
 {
+    using System;
+
     class MainClass
     {
         public static void Main(string[] args)
         {
+            Console.Write("Enter the size number: ");
+
             int size = int.Parse(Console.ReadLine());
+
             for (int starCount = 1; starCount <= size; starCount++)
             {
                 PrintRow(size, starCount);

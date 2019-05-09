@@ -1,0 +1,6 @@
+/Users/teoharov/Developer/C#/C# OOP/OOP/AbstractionLab/PointInRectangle/bin/Debug/PointInRectangle.exe
+/Users/teoharov/Developer/C#/C# OOP/OOP/AbstractionLab/PointInRectangle/bin/Debug/PointInRectangle.pdb
+/Users/teoharov/Developer/C#/C# OOP/OOP/AbstractionLab/PointInRectangle/obj/x86/Debug/PointInRectangle.csprojAssemblyReference.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/AbstractionLab/PointInRectangle/obj/x86/Debug/PointInRectangle.csproj.CoreCompileInputs.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/AbstractionLab/PointInRectangle/obj/x86/Debug/PointInRectangle.exe
+/Users/teoharov/Developer/C#/C# OOP/OOP/AbstractionLab/PointInRectangle/obj/x86/Debug/PointInRectangle.pdb
