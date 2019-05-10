@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{E0EB8894-7500-415A-A5D1-C5F118A2FDFE}|Default">
+  <MonoDevelop.Ide.ItemProperties.P03__StudentSystem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="P03_StudentSystem/StartUp.cs">
+    <Files>
+      <File FileName="P03_StudentSystem/Student.cs" Line="88" Column="33" />
+      <File FileName="P03_StudentSystem/StartUp.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WorkingWithAbstraction" expanded="True">
+            <Node name="P03_StudentSystem" expanded="True">
+              <Node name="StartUp.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
