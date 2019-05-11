@@ -672,11 +672,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/teoharov/Developer/C#/C# OOP/Letures/02. CSharp-OOP-Basics-Working-with-Abstraction/Working-with-Abstraction/P03_StudentSystem/P03_StudentSystem.csproj",
+      "projectUniqueName": "/Users/teoharov/Developer/C#/C# OOP/OOP/Working-with-Abstraction/P03_StudentSystem/P03_StudentSystem.csproj",
       "projectName": "P03_StudentSystem",
-      "projectPath": "/Users/teoharov/Developer/C#/C# OOP/Letures/02. CSharp-OOP-Basics-Working-with-Abstraction/Working-with-Abstraction/P03_StudentSystem/P03_StudentSystem.csproj",
+      "projectPath": "/Users/teoharov/Developer/C#/C# OOP/OOP/Working-with-Abstraction/P03_StudentSystem/P03_StudentSystem.csproj",
       "packagesPath": "/Users/teoharov/.nuget/packages/",
-      "outputPath": "/Users/teoharov/Developer/C#/C# OOP/Letures/02. CSharp-OOP-Basics-Working-with-Abstraction/Working-with-Abstraction/P03_StudentSystem/obj/",
+      "outputPath": "/Users/teoharov/Developer/C#/C# OOP/OOP/Working-with-Abstraction/P03_StudentSystem/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

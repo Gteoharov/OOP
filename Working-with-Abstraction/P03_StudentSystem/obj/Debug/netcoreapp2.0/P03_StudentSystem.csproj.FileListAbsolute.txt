@@ -20,3 +20,14 @@
 /Users/teoharov/Developer/C#/C# OOP/Letures/02. CSharp-OOP-Basics-Working-with-Abstraction/Working-with-Abstraction/P03_StudentSystem/obj/Debug/netcoreapp2.0/P03_StudentSystem.AssemblyInfo.cs
 /Users/teoharov/Developer/C#/C# OOP/Letures/02. CSharp-OOP-Basics-Working-with-Abstraction/Working-with-Abstraction/P03_StudentSystem/obj/Debug/netcoreapp2.0/P03_StudentSystem.dll
 /Users/teoharov/Developer/C#/C# OOP/Letures/02. CSharp-OOP-Basics-Working-with-Abstraction/Working-with-Abstraction/P03_StudentSystem/obj/Debug/netcoreapp2.0/P03_StudentSystem.pdb
+/Users/teoharov/Developer/C#/C# OOP/OOP/Working-with-Abstraction/P03_StudentSystem/bin/Debug/netcoreapp2.0/P03_StudentSystem.deps.json
+/Users/teoharov/Developer/C#/C# OOP/OOP/Working-with-Abstraction/P03_StudentSystem/bin/Debug/netcoreapp2.0/P03_StudentSystem.runtimeconfig.json
+/Users/teoharov/Developer/C#/C# OOP/OOP/Working-with-Abstraction/P03_StudentSystem/bin/Debug/netcoreapp2.0/P03_StudentSystem.runtimeconfig.dev.json
+/Users/teoharov/Developer/C#/C# OOP/OOP/Working-with-Abstraction/P03_StudentSystem/bin/Debug/netcoreapp2.0/P03_StudentSystem.dll
+/Users/teoharov/Developer/C#/C# OOP/OOP/Working-with-Abstraction/P03_StudentSystem/bin/Debug/netcoreapp2.0/P03_StudentSystem.pdb
+/Users/teoharov/Developer/C#/C# OOP/OOP/Working-with-Abstraction/P03_StudentSystem/obj/Debug/netcoreapp2.0/P03_StudentSystem.csprojAssemblyReference.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Working-with-Abstraction/P03_StudentSystem/obj/Debug/netcoreapp2.0/P03_StudentSystem.csproj.CoreCompileInputs.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Working-with-Abstraction/P03_StudentSystem/obj/Debug/netcoreapp2.0/P03_StudentSystem.AssemblyInfoInputs.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Working-with-Abstraction/P03_StudentSystem/obj/Debug/netcoreapp2.0/P03_StudentSystem.AssemblyInfo.cs
+/Users/teoharov/Developer/C#/C# OOP/OOP/Working-with-Abstraction/P03_StudentSystem/obj/Debug/netcoreapp2.0/P03_StudentSystem.dll
+/Users/teoharov/Developer/C#/C# OOP/OOP/Working-with-Abstraction/P03_StudentSystem/obj/Debug/netcoreapp2.0/P03_StudentSystem.pdb
