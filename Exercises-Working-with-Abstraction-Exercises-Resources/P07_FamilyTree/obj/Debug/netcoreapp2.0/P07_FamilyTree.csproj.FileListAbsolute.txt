@@ -1,0 +1,11 @@
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P07_FamilyTree/bin/Debug/netcoreapp2.0/P07_FamilyTree.deps.json
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P07_FamilyTree/bin/Debug/netcoreapp2.0/P07_FamilyTree.runtimeconfig.json
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P07_FamilyTree/bin/Debug/netcoreapp2.0/P07_FamilyTree.runtimeconfig.dev.json
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P07_FamilyTree/bin/Debug/netcoreapp2.0/P07_FamilyTree.dll
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P07_FamilyTree/bin/Debug/netcoreapp2.0/P07_FamilyTree.pdb
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P07_FamilyTree/obj/Debug/netcoreapp2.0/P07_FamilyTree.csprojAssemblyReference.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P07_FamilyTree/obj/Debug/netcoreapp2.0/P07_FamilyTree.csproj.CoreCompileInputs.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P07_FamilyTree/obj/Debug/netcoreapp2.0/P07_FamilyTree.AssemblyInfoInputs.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P07_FamilyTree/obj/Debug/netcoreapp2.0/P07_FamilyTree.AssemblyInfo.cs
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P07_FamilyTree/obj/Debug/netcoreapp2.0/P07_FamilyTree.dll
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P07_FamilyTree/obj/Debug/netcoreapp2.0/P07_FamilyTree.pdb

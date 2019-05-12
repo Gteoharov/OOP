@@ -1,0 +1,11 @@
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P05_GreedyTimes/bin/Debug/netcoreapp2.0/P05_GreedyTimes.deps.json
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P05_GreedyTimes/bin/Debug/netcoreapp2.0/P05_GreedyTimes.runtimeconfig.json
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P05_GreedyTimes/bin/Debug/netcoreapp2.0/P05_GreedyTimes.runtimeconfig.dev.json
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P05_GreedyTimes/bin/Debug/netcoreapp2.0/P05_GreedyTimes.dll
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P05_GreedyTimes/bin/Debug/netcoreapp2.0/P05_GreedyTimes.pdb
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P05_GreedyTimes/obj/Debug/netcoreapp2.0/P05_GreedyTimes.csprojAssemblyReference.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P05_GreedyTimes/obj/Debug/netcoreapp2.0/P05_GreedyTimes.csproj.CoreCompileInputs.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P05_GreedyTimes/obj/Debug/netcoreapp2.0/P05_GreedyTimes.AssemblyInfoInputs.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P05_GreedyTimes/obj/Debug/netcoreapp2.0/P05_GreedyTimes.AssemblyInfo.cs
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P05_GreedyTimes/obj/Debug/netcoreapp2.0/P05_GreedyTimes.dll
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P05_GreedyTimes/obj/Debug/netcoreapp2.0/P05_GreedyTimes.pdb

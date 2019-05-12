@@ -1,0 +1,11 @@
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P02_CarsSalesman/bin/Debug/netcoreapp2.0/P02_CarsSalesman.deps.json
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P02_CarsSalesman/bin/Debug/netcoreapp2.0/P02_CarsSalesman.runtimeconfig.json
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P02_CarsSalesman/bin/Debug/netcoreapp2.0/P02_CarsSalesman.runtimeconfig.dev.json
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P02_CarsSalesman/bin/Debug/netcoreapp2.0/P02_CarsSalesman.dll
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P02_CarsSalesman/bin/Debug/netcoreapp2.0/P02_CarsSalesman.pdb
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P02_CarsSalesman/obj/Debug/netcoreapp2.0/P02_CarsSalesman.csprojAssemblyReference.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P02_CarsSalesman/obj/Debug/netcoreapp2.0/P02_CarsSalesman.csproj.CoreCompileInputs.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P02_CarsSalesman/obj/Debug/netcoreapp2.0/P02_CarsSalesman.AssemblyInfoInputs.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P02_CarsSalesman/obj/Debug/netcoreapp2.0/P02_CarsSalesman.AssemblyInfo.cs
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P02_CarsSalesman/obj/Debug/netcoreapp2.0/P02_CarsSalesman.dll
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P02_CarsSalesman/obj/Debug/netcoreapp2.0/P02_CarsSalesman.pdb

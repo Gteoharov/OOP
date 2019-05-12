@@ -1,0 +1,11 @@
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P03_JediGalaxy/bin/Debug/netcoreapp2.0/P03_JediGalaxy.deps.json
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P03_JediGalaxy/bin/Debug/netcoreapp2.0/P03_JediGalaxy.runtimeconfig.json
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P03_JediGalaxy/bin/Debug/netcoreapp2.0/P03_JediGalaxy.runtimeconfig.dev.json
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P03_JediGalaxy/bin/Debug/netcoreapp2.0/P03_JediGalaxy.dll
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P03_JediGalaxy/bin/Debug/netcoreapp2.0/P03_JediGalaxy.pdb
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P03_JediGalaxy/obj/Debug/netcoreapp2.0/P03_JediGalaxy.csprojAssemblyReference.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P03_JediGalaxy/obj/Debug/netcoreapp2.0/P03_JediGalaxy.csproj.CoreCompileInputs.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P03_JediGalaxy/obj/Debug/netcoreapp2.0/P03_JediGalaxy.AssemblyInfoInputs.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P03_JediGalaxy/obj/Debug/netcoreapp2.0/P03_JediGalaxy.AssemblyInfo.cs
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P03_JediGalaxy/obj/Debug/netcoreapp2.0/P03_JediGalaxy.dll
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P03_JediGalaxy/obj/Debug/netcoreapp2.0/P03_JediGalaxy.pdb

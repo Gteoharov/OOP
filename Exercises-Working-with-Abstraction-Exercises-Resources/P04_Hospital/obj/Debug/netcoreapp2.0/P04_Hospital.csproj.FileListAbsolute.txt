@@ -1,0 +1,11 @@
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P04_Hospital/bin/Debug/netcoreapp2.0/P04_Hospital.deps.json
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P04_Hospital/bin/Debug/netcoreapp2.0/P04_Hospital.runtimeconfig.json
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P04_Hospital/bin/Debug/netcoreapp2.0/P04_Hospital.runtimeconfig.dev.json
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P04_Hospital/bin/Debug/netcoreapp2.0/P04_Hospital.dll
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P04_Hospital/bin/Debug/netcoreapp2.0/P04_Hospital.pdb
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P04_Hospital/obj/Debug/netcoreapp2.0/P04_Hospital.csprojAssemblyReference.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P04_Hospital/obj/Debug/netcoreapp2.0/P04_Hospital.csproj.CoreCompileInputs.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P04_Hospital/obj/Debug/netcoreapp2.0/P04_Hospital.AssemblyInfoInputs.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P04_Hospital/obj/Debug/netcoreapp2.0/P04_Hospital.AssemblyInfo.cs
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P04_Hospital/obj/Debug/netcoreapp2.0/P04_Hospital.dll
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P04_Hospital/obj/Debug/netcoreapp2.0/P04_Hospital.pdb

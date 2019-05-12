@@ -1,0 +1,10 @@
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P01_RawData/obj/Debug/netcoreapp2.0/P01_RawData.csproj.CoreCompileInputs.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P01_RawData/obj/Debug/netcoreapp2.0/P01_RawData.AssemblyInfoInputs.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P01_RawData/obj/Debug/netcoreapp2.0/P01_RawData.AssemblyInfo.cs
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P01_RawData/bin/Debug/netcoreapp2.0/P01_RawData.deps.json
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P01_RawData/bin/Debug/netcoreapp2.0/P01_RawData.runtimeconfig.json
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P01_RawData/bin/Debug/netcoreapp2.0/P01_RawData.runtimeconfig.dev.json
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P01_RawData/bin/Debug/netcoreapp2.0/P01_RawData.dll
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P01_RawData/bin/Debug/netcoreapp2.0/P01_RawData.pdb
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P01_RawData/obj/Debug/netcoreapp2.0/P01_RawData.dll
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P01_RawData/obj/Debug/netcoreapp2.0/P01_RawData.pdb
