@@ -1,17 +1,18 @@
-﻿<Properties StartupConfiguration="{E0EB8894-7500-415A-A5D1-C5F118A2FDFE}|Default">
-  <MonoDevelop.Ide.ItemProperties.P03__StudentSystem PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="P03_StudentSystem/Student.cs">
+﻿<Properties StartupConfiguration="{76F50C6C-7037-4635-BC76-DC0D6420F7B3}|Default">
+  <MonoDevelop.Ide.ItemProperties.StudentSystemCatalog PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StudentSystemCatalog/Commands/CommandParser.cs">
     <Files>
-      <File FileName="P03_StudentSystem/Student.cs" Line="83" Column="33" />
-      <File FileName="P03_StudentSystem/StartUp.cs" Line="11" Column="14" />
-      <File FileName="P03_StudentSystem/StudentSystem.cs" Line="1" Column="1" />
+      <File FileName="StudentSystemCatalog/Commands/Command.cs" Line="1" Column="1" />
+      <File FileName="StudentSystemCatalog/Commands/CommandParser.cs" Line="18" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="WorkingWithAbstraction" expanded="True">
-            <Node name="P03_StudentSystem" expanded="True">
-              <Node name="StudentSystem.cs" selected="True" />
+            <Node name="StudentSystemCatalog" expanded="True">
+              <Node name="Commands" expanded="True">
+                <Node name="CommandParser.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
