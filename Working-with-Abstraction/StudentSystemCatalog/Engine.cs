@@ -1,7 +1,7 @@
 ﻿namespace StudentSystemCatalog
 {
-    using System;
     using StudentSystemCatalog.Commands;
+    using StudentSystemCatalog.Data;
     using StudentSystemCatalog.Students;
 
     public class Engine
@@ -9,13 +9,16 @@
         private CommandParser commandParser;
         private StudentSystem studentSystem;
 
-        private Func<string> readInput;
+        private IDataReader dataReader;
+        private IDataWriter dataWriter;
+        
 
-        public Engine(CommandParser commandParser, StudentSystem studentSystem, Func<string> readInput)
+        public Engine(CommandParser commandParser, StudentSystem studentSystem, IDataReader dataReader, IDataWriter dataWriter)
         {
             this.commandParser = commandParser;
             this.studentSystem = studentSystem;
-            this.readInput = readInput;
+            this.dataReader = dataReader;
+            this.dataWriter = dataWriter;
         }
 
         public void Run()
@@ -24,7 +27,8 @@
             {
                 try
                 {
-                    var command = commandParser.Parse(this.readInput());
+                    var data = this.dataReader.Read();
+                    var command = commandParser.Parse(data);
 
                     if (command.Name == "Create")
                     {
@@ -40,7 +44,7 @@
 
                         var student = studentSystem.Get(name);
 
-                        Console.WriteLine(student);
+                        this.dataWriter.Write(student);
                     }
                     else if (command.Name == "Exit")
                     {

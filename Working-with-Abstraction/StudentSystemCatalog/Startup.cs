@@ -1,7 +1,7 @@
 ﻿namespace StudentSystemCatalog
 {
-    using System;
     using StudentSystemCatalog.Commands;
+    using StudentSystemCatalog.Data;
     using StudentSystemCatalog.Students;
 
     public class Startup
@@ -10,7 +10,9 @@
         {
             var commandParser = new CommandParser();
             var studentSystem = new StudentSystem();
-            var engine = new Engine(commandParser, studentSystem, Console.ReadLine);
+            var dataReader = new ConsoleDataReader();
+            var dataWriter = new ConsoleDataWriter();
+            var engine = new Engine(commandParser, studentSystem, dataReader, dataWriter);
 
             engine.Run();
         }

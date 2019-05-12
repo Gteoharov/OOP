@@ -1,21 +1,23 @@
 ﻿<Properties StartupConfiguration="{2EDFF141-69BB-4B79-B930-118AA964574B}|Default">
   <MonoDevelop.Ide.ItemProperties.StudentSystemCatalog PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Data/ConsoleDataWriter.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Commands/Command.cs">
     <Files>
-      <File FileName="Startup.cs" Line="13" Column="83" />
-      <File FileName="Engine.cs" Line="18" Column="40" />
+      <File FileName="Startup.cs" Line="18" Column="10" />
+      <File FileName="Engine.cs" Line="47" Column="54" />
       <File FileName="Data/IDataReader.cs" Line="1" Column="36" />
       <File FileName="Data/IDataWriter.cs" Line="8" Column="1" />
       <File FileName="Data/ConsoleDataReader.cs" Line="5" Column="25" />
-      <File FileName="Data/ConsoleDataWriter.cs" Line="3" Column="39" />
+      <File FileName="Data/ConsoleDataWriter.cs" Line="4" Column="1" />
+      <File FileName="Commands/CommandParser.cs" Line="1" Column="1" />
+      <File FileName="Commands/Command.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="StudentSystemCatalog" expanded="True">
             <Node name="StudentSystemCatalog" expanded="True">
-              <Node name="Data" expanded="True">
-                <Node name="ConsoleDataWriter.cs" selected="True" />
+              <Node name="Commands" expanded="True">
+                <Node name="Command.cs" selected="True" />
               </Node>
             </Node>
           </Node>
