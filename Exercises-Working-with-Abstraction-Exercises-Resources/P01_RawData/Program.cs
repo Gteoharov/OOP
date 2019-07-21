@@ -18,23 +18,31 @@
                 int enginePower = int.Parse(parameters[2]);
                 int cargoWeight = int.Parse(parameters[3]);
                 string cargoType = parameters[4];
-                double tire1Pressure = double.Parse(parameters[5]);
-                int tire1age = int.Parse(parameters[6]);
-                double tire2Pressure = double.Parse(parameters[7]);
-                int tire2age = int.Parse(parameters[8]);
-                double tire3Pressure = double.Parse(parameters[9]);
-                int tire3age = int.Parse(parameters[10]);
-                double tire4Pressure = double.Parse(parameters[11]);
-                int tire4age = int.Parse(parameters[12]);
-                cars.Add(new Car(model, engineSpeed, enginePower, cargoWeight, cargoType, tire1Pressure, tire1age, tire2Pressure, tire2age, tire3Pressure, tire3age, tire4Pressure, tire4age));
+                
+                Engine engine = new Engine(engineSpeed, enginePower);
+                Cargo cargo = new Cargo(cargoWeight, cargoType);
+                Tire[] tires = new Tire[4];
+
+                int indexOfTire = 0;
+                for (int indexTire = 5; indexTire <= 12; indexTire++)
+                {
+                    double tirePressure = double.Parse(parameters[indexTire]);
+                    int tireAge = int.Parse(parameters[indexTire]);
+
+                    Tire tire = new Tire(tirePressure, tireAge);
+                    tires[indexOfTire] = tire;
+                    indexOfTire++;
+                }
+
+                cars.Add(new Car(model, engine, cargo, tires));
             }
 
             string command = Console.ReadLine();
             if (command == "fragile")
             {
                 List<string> fragile = cars
-                    .Where(x => x.cargoType == "fragile" && x.tires.Any(y => y.Key < 1))
-                    .Select(x => x.model)
+                    .Where(x => x.Cargo.Type == "fragile" && x.Tires.Any(y => y.Pressure < 1))
+                    .Select(x => x.Model)
                     .ToList();
 
                 Console.WriteLine(string.Join(Environment.NewLine, fragile));
@@ -42,8 +50,8 @@
             else
             {
                 List<string> flamable = cars
-                    .Where(x => x.cargoType == "flamable" && x.enginePower > 250)
-                    .Select(x => x.model)
+                    .Where(x => x.Cargo.Type == "flamable" && x.Engine.Power > 250)
+                    .Select(x => x.Model)
                     .ToList();
 
                 Console.WriteLine(string.Join(Environment.NewLine, flamable));

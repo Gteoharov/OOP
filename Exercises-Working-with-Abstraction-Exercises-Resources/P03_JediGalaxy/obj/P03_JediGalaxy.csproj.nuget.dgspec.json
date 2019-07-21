@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P03_JediGalaxy/P03_JediGalaxy.csproj": {}
+  },
+  "projects": {
+    "/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P03_JediGalaxy/P03_JediGalaxy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P03_JediGalaxy/P03_JediGalaxy.csproj",
+        "projectName": "P03_JediGalaxy",
+        "projectPath": "/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P03_JediGalaxy/P03_JediGalaxy.csproj",
+        "packagesPath": "/Users/teoharov/.nuget/packages/",
+        "outputPath": "/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P03_JediGalaxy/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/teoharov/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

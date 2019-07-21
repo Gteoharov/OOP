@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{76F50C6C-7037-4635-BC76-DC0D6420F7B3}|Default">
   <MonoDevelop.Ide.ItemProperties.StudentSystemCatalog PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="StudentSystemCatalog/Commands/CommandParser.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StudentSystemCatalog/Commands/Command.cs">
     <Files>
       <File FileName="StudentSystemCatalog/Commands/Command.cs" Line="1" Column="1" />
-      <File FileName="StudentSystemCatalog/Commands/CommandParser.cs" Line="18" Column="2" />
+      <File FileName="StudentSystemCatalog/Engine.cs" Line="42" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,7 +11,7 @@
           <Node name="WorkingWithAbstraction" expanded="True">
             <Node name="StudentSystemCatalog" expanded="True">
               <Node name="Commands" expanded="True">
-                <Node name="CommandParser.cs" selected="True" />
+                <Node name="Command.cs" selected="True" />
               </Node>
             </Node>
           </Node>

@@ -8,3 +8,4 @@
 /Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P01_RawData/bin/Debug/netcoreapp2.0/P01_RawData.pdb
 /Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P01_RawData/obj/Debug/netcoreapp2.0/P01_RawData.dll
 /Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P01_RawData/obj/Debug/netcoreapp2.0/P01_RawData.pdb
+/Users/teoharov/Developer/C#/C# OOP/OOP/Exercises-Working-with-Abstraction-Exercises-Resources/P01_RawData/obj/Debug/netcoreapp2.0/P01_RawData.csprojAssemblyReference.cache
