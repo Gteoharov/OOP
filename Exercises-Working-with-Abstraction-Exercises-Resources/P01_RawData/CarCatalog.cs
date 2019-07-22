@@ -7,10 +7,12 @@ namespace P01_RawData
     public class CarCatalog
     {
         private List<Car> cars;
+        private EngineFactory engineFactory;
 
-        public CarCatalog()
+        public CarCatalog(EngineFactory engineFactory)
         {
             this.cars = new List<Car>();
+            this.engineFactory = engineFactory;
         }
 
         public void Add(string[] parameters)
@@ -21,7 +23,7 @@ namespace P01_RawData
             int cargoWeight = int.Parse(parameters[3]);
             string cargoType = parameters[4];
 
-            Engine engine = new Engine(engineSpeed, enginePower);
+            Engine engine = engineFactory.Create(engineSpeed, enginePower);
             Cargo cargo = new Cargo(cargoWeight, cargoType);
             Tire[] tires = new Tire[4];
 
@@ -39,6 +41,11 @@ namespace P01_RawData
             Car car = new Car(model, engine, cargo, tires);
 
             cars.Add(car);
+        }
+
+        public List<Car> GetCars()
+        {
+            return this.cars;
         }
     }
 }
