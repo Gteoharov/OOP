@@ -1,26 +1,25 @@
-﻿<Properties StartupConfiguration="{417EE59D-D78D-41F3-8140-1B09DB0B0BD7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="P02_CarsSalesman/EngineFactory.cs">
+﻿<Properties StartupConfiguration="{DAE7726D-DA4D-4027-89AF-ED514DB01B36}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="P03_JediGalaxy/Program.cs">
     <Files>
-      <File FileName="P02_CarsSalesman/Engine.cs" Line="28" Column="1" />
-      <File FileName="P02_CarsSalesman/Car.cs" Line="12" Column="31" />
-      <File FileName="P02_CarsSalesman/CarSalesman.cs" Line="22" Column="10" />
-      <File FileName="P02_CarsSalesman/Startup.cs" Line="39" Column="1" />
-      <File FileName="P02_CarsSalesman/CarFactorty.cs" Line="32" Column="46" />
-      <File FileName="P02_CarsSalesman/EngineFactory.cs" Line="5" Column="9" />
+      <File FileName="P03_JediGalaxy/Program.cs" Line="35" Column="1" />
+      <File FileName="P03_JediGalaxy/Matrix.cs" Line="6" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="WorkingWithAbstraction" expanded="True">
-            <Node name="P02_CarsSalesman" expanded="True">
-              <Node name="EngineFactory.cs" selected="True" />
+            <Node name="P02_CarsSalesman" expanded="True" />
+            <Node name="P03_JediGalaxy" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
+            <Node name="P04_Hospital" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.P03__JediGalaxy PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.P01__RawData PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

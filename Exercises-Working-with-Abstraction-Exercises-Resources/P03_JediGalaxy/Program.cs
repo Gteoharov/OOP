@@ -8,51 +8,40 @@ namespace P03_JediGalaxy
         static void Main()
         {
             int[] dimestions = Console.ReadLine().Split(new string[] { " " }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
-            int x = dimestions[0];
-            int y = dimestions[1];
 
-            int[,] matrix = new int[x, y];
-
-            int value = 0;
-            for (int i = 0; i < x; i++)
-            {
-                for (int j = 0; j < y; j++)
-                {
-                    matrix[i, j] = value++;
-                }
-            }
+            int[,] matrix = Matrix.Create(dimestions);
 
             string command = Console.ReadLine();
             long sum = 0;
             while (command != "Let the Force be with you")
             {
-                int[] ivoS = command.Split(new string[] { " " }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
-                int[] evil = Console.ReadLine().Split(new string[] { " " }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
-                int xE = evil[0];
-                int yE = evil[1];
+                int[] ivoScore = command.Split(new string[] { " " }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
+                int[] evilScore = Console.ReadLine().Split(new string[] { " " }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
+                int xEvil = evilScore[0];
+                int yEvil = evilScore[1];
 
-                while (xE >= 0 && yE >= 0)
+                while (xEvil >= 0 && yEvil >= 0)
                 {
-                    if (xE >= 0 && xE < matrix.GetLength(0) && yE >= 0 && yE < matrix.GetLength(1))
+                    if (xEvil >= 0 && xEvil < matrix.GetLength(0) && yEvil >= 0 && yEvil < matrix.GetLength(1))
                     {
-                        matrix[xE, yE] = 0;
+                        matrix[xEvil, yEvil] = 0;
                     }
-                    xE--;
-                    yE--;
+                    xEvil--;
+                    yEvil--;
                 }
 
-                int xI = ivoS[0];
-                int yI = ivoS[1];
+                int xIvo = ivoScore[0];
+                int yIvo = ivoScore[1];
 
-                while (xI >= 0 && yI < matrix.GetLength(1))
+                while (xIvo >= 0 && yIvo < matrix.GetLength(1))
                 {
-                    if (xI >= 0 && xI < matrix.GetLength(0) && yI >= 0 && yI < matrix.GetLength(1))
+                    if (xIvo >= 0 && xIvo < matrix.GetLength(0) && yIvo >= 0 && yIvo < matrix.GetLength(1))
                     {
-                        sum += matrix[xI, yI];
+                        sum += matrix[xIvo, yIvo];
                     }
 
-                    yI++;
-                    xI--;
+                    yIvo++;
+                    xIvo--;
                 }
 
                 command = Console.ReadLine();
