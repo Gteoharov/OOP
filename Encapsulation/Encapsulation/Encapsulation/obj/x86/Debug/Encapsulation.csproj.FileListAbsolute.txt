@@ -1,0 +1,6 @@
+/Users/teoharov/Developer/C#/C# OOP/OOP/Encapsulation/Encapsulation/Encapsulation/bin/Debug/Encapsulation.exe
+/Users/teoharov/Developer/C#/C# OOP/OOP/Encapsulation/Encapsulation/Encapsulation/bin/Debug/Encapsulation.pdb
+/Users/teoharov/Developer/C#/C# OOP/OOP/Encapsulation/Encapsulation/Encapsulation/obj/x86/Debug/Encapsulation.csprojAssemblyReference.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Encapsulation/Encapsulation/Encapsulation/obj/x86/Debug/Encapsulation.csproj.CoreCompileInputs.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Encapsulation/Encapsulation/Encapsulation/obj/x86/Debug/Encapsulation.exe
+/Users/teoharov/Developer/C#/C# OOP/OOP/Encapsulation/Encapsulation/Encapsulation/obj/x86/Debug/Encapsulation.pdb
