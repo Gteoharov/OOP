@@ -6,12 +6,7 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="WorkingWithAbstraction" expanded="True">
-            <Node name="P03_JediGalaxy" expanded="True" />
-            <Node name="P04_Hospital" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="WorkingWithAbstraction" expanded="True" />
         </State>
       </Pad>
     </Pads>
