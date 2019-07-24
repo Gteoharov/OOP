@@ -1,18 +1,16 @@
 ﻿<Properties StartupConfiguration="{DAE7726D-DA4D-4027-89AF-ED514DB01B36}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="P03_JediGalaxy/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="P04_Hospital/Program.cs">
     <Files>
-      <File FileName="P03_JediGalaxy/Program.cs" Line="35" Column="1" />
-      <File FileName="P03_JediGalaxy/Matrix.cs" Line="6" Column="16" />
+      <File FileName="P04_Hospital/Program.cs" Line="21" Column="42" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="WorkingWithAbstraction" expanded="True">
-            <Node name="P02_CarsSalesman" expanded="True" />
-            <Node name="P03_JediGalaxy" expanded="True">
+            <Node name="P03_JediGalaxy" expanded="True" />
+            <Node name="P04_Hospital" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
-            <Node name="P04_Hospital" expanded="True" />
           </Node>
         </State>
       </Pad>
