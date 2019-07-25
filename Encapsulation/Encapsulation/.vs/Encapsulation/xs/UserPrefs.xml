@@ -1,15 +1,16 @@
 ﻿<Properties StartupConfiguration="{98EDDAA7-BF06-4627-B958-00620406C2C4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Encapsulation/Person.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Encapsulation/Program.cs">
     <Files>
-      <File FileName="Encapsulation/Program.cs" Line="23" Column="37" />
-      <File FileName="Encapsulation/Person.cs" Line="29" Column="26" />
+      <File FileName="Encapsulation/Program.cs" Line="32" Column="56" />
+      <File FileName="Encapsulation/Person.cs" Line="128" Column="23" />
+      <File FileName="Encapsulation/Team.cs" Line="30" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Encapsulation" expanded="True">
             <Node name="Encapsulation" expanded="True">
-              <Node name="Person.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

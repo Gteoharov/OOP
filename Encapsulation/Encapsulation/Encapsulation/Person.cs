@@ -3,6 +3,12 @@ namespace Encapsulation
 {
     public class Person
     {
+        private string firstName;
+        private string lastName;
+        private int age;
+        private string email;
+        private decimal salary;
+
         public Person(string firstName, string lastName, int age, decimal salary)
         {
             this.FirstName = firstName;
@@ -11,13 +17,88 @@ namespace Encapsulation
             this.Salary = salary;
         }
 
-        public string FirstName { get; private set; }
+        public Person(string firstName, string lastName, int age, decimal salary, string email)
+            : this(firstName, lastName, age, salary)
+        {
+            this.Email = email;
+        }
 
-        public string LastName { get; private set; }
+        public string FirstName
+        {
+            get
+            {
+                return this.firstName;
+            }
+            set
+            {
+                this.ValidateName(value);
+                this.firstName = value;
+            }
+        }
 
-        public int Age { get; private set; }
+        public string LastName
+        {
+            get
+            {
+                return this.lastName;
+            }
+            set
+            {
+                this.ValidateName(value);
+                this.lastName = value;
+            }
+        }
 
-        public decimal Salary { get; private set; }
+        public int Age
+        {
+            get
+            {
+                return this.age;
+            }
+            set
+            {
+                if (value <= 0)
+                {
+                    throw new ArgumentException("Age cannot be 0 or negative number.");
+                }
+                this.age = value;
+            }
+        }
+
+        public string Email
+        {
+            get
+            {
+                return this.email;
+            }
+
+            set
+            {
+                this.ValidateEmail(value);
+                this.email = value;
+            }
+        }
+
+        public decimal Salary
+        {
+            get
+            {
+                return this.salary;
+            }
+            set
+            {
+                if (value < 460)
+                {
+                    throw new ArgumentException("Salary cannot be under 460 BGN.");
+                }
+                this.salary = value;
+            }
+        }
+
+        public void ChangeEmail(string newEmail)
+        {
+            this.Email = newEmail;
+        }
 
         public void IncreaseSalary(decimal percentage)
         {
@@ -27,6 +108,27 @@ namespace Encapsulation
             }
 
             this.Salary += (this.Salary * percentage) / 100;
+        }
+
+        private void ValidateName(string name)
+        {
+            if (name.Length < 3)
+            {
+                throw new ArgumentException("Name must be at least 3 characters.");
+            }
+        }
+
+        private void ValidateEmail(string email)
+        {
+            if (!email.Contains("@"))
+            {
+                throw new ArgumentException("Email need to contain @ character.");
+            }
+
+            if (!email.Contains("."))
+            {
+                throw new ArgumentException("Email need to contain '.' character.");
+            }
         }
 
         public override string ToString()
