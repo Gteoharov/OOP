@@ -1,16 +1,19 @@
 ﻿<Properties StartupConfiguration="{98EDDAA7-BF06-4627-B958-00620406C2C4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Encapsulation/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PizzaCalories/Pizza.cs">
     <Files>
       <File FileName="Encapsulation/Program.cs" Line="32" Column="56" />
-      <File FileName="Encapsulation/Person.cs" Line="128" Column="23" />
-      <File FileName="Encapsulation/Team.cs" Line="30" Column="1" />
+      <File FileName="Encapsulation/Person.cs" />
+      <File FileName="PizzaCalories/Program.cs" Line="13" Column="1" />
+      <File FileName="PizzaCalories/Dough.cs" Line="90" Column="1" />
+      <File FileName="PizzaCalories/Topping.cs" Line="65" Column="2" />
+      <File FileName="PizzaCalories/Pizza.cs" Line="13" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Encapsulation" expanded="True">
-            <Node name="Encapsulation" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="PizzaCalories" expanded="True">
+              <Node name="Pizza.cs" selected="True" />
             </Node>
           </Node>
         </State>

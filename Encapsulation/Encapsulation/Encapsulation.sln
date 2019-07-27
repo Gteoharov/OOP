@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{98EDDAA7-BF06-4627-B958-00620406C2C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaCalories", "PizzaCalories\PizzaCalories.csproj", "{815E4ECF-3E6D-468F-AA61-7051F47ACB97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,5 +15,9 @@ Global
 		{98EDDAA7-BF06-4627-B958-00620406C2C4}.Debug|x86.Build.0 = Debug|x86
 		{98EDDAA7-BF06-4627-B958-00620406C2C4}.Release|x86.ActiveCfg = Release|x86
 		{98EDDAA7-BF06-4627-B958-00620406C2C4}.Release|x86.Build.0 = Release|x86
+		{815E4ECF-3E6D-468F-AA61-7051F47ACB97}.Debug|x86.ActiveCfg = Debug|x86
+		{815E4ECF-3E6D-468F-AA61-7051F47ACB97}.Debug|x86.Build.0 = Debug|x86
+		{815E4ECF-3E6D-468F-AA61-7051F47ACB97}.Release|x86.ActiveCfg = Release|x86
+		{815E4ECF-3E6D-468F-AA61-7051F47ACB97}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
