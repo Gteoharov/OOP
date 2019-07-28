@@ -24,6 +24,7 @@
             }
             private set
             {
+                this.ValidateDigits(value);
                 this.length = value;
             }
         }
@@ -36,6 +37,7 @@
             }
             private set
             {
+                this.ValidateDigits(value);
                 this.width = value;
             }
         }
@@ -48,7 +50,16 @@
             }
             private set
             {
+                this.ValidateDigits(value);
                 this.height = value;
+            }
+        }
+
+        private void ValidateDigits(double digit)
+        {
+            if (digit <= 0)
+            {
+                throw new ArgumentException($"{digit} cannot be zero or negative.");
             }
         }
 
