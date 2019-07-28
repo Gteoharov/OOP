@@ -1,0 +1,6 @@
+/Users/teoharov/Developer/C#/C# OOP/OOP/Encapsulation/Exercises/ShoppingSpree/bin/Debug/ShoppingSpree.exe
+/Users/teoharov/Developer/C#/C# OOP/OOP/Encapsulation/Exercises/ShoppingSpree/bin/Debug/ShoppingSpree.pdb
+/Users/teoharov/Developer/C#/C# OOP/OOP/Encapsulation/Exercises/ShoppingSpree/obj/x86/Debug/ShoppingSpree.csprojAssemblyReference.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Encapsulation/Exercises/ShoppingSpree/obj/x86/Debug/ShoppingSpree.csproj.CoreCompileInputs.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Encapsulation/Exercises/ShoppingSpree/obj/x86/Debug/ShoppingSpree.exe
+/Users/teoharov/Developer/C#/C# OOP/OOP/Encapsulation/Exercises/ShoppingSpree/obj/x86/Debug/ShoppingSpree.pdb
