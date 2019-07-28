@@ -1,0 +1,6 @@
+/Users/teoharov/Developer/C#/C# OOP/OOP/Encapsulation/Exercises/Exercises/bin/Debug/Exercises.exe
+/Users/teoharov/Developer/C#/C# OOP/OOP/Encapsulation/Exercises/Exercises/bin/Debug/Exercises.pdb
+/Users/teoharov/Developer/C#/C# OOP/OOP/Encapsulation/Exercises/Exercises/obj/x86/Debug/Exercises.csprojAssemblyReference.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Encapsulation/Exercises/Exercises/obj/x86/Debug/Exercises.csproj.CoreCompileInputs.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Encapsulation/Exercises/Exercises/obj/x86/Debug/Exercises.exe
+/Users/teoharov/Developer/C#/C# OOP/OOP/Encapsulation/Exercises/Exercises/obj/x86/Debug/Exercises.pdb

@@ -664,36 +664,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bdanc\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/teoharov/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "D:\\C# Fundamentals\\2018-Jan\\CSharp-OOP-Basics\\03. CSharp-OOP-Basics-Encapsulation\\03. CSharp-OOP-Basics-Encapsulation-Exercises\\AnimalFarm\\AnimalFarm\\AnimalFarm.csproj",
+      "projectUniqueName": "/Users/teoharov/Developer/C#/C# OOP/OOP/AnimalFarm/AnimalFarm/AnimalFarm.csproj",
       "projectName": "AnimalFarm",
-      "projectPath": "D:\\C# Fundamentals\\2018-Jan\\CSharp-OOP-Basics\\03. CSharp-OOP-Basics-Encapsulation\\03. CSharp-OOP-Basics-Encapsulation-Exercises\\AnimalFarm\\AnimalFarm\\AnimalFarm.csproj",
-      "packagesPath": "C:\\Users\\bdanc\\.nuget\\packages\\",
-      "outputPath": "D:\\C# Fundamentals\\2018-Jan\\CSharp-OOP-Basics\\03. CSharp-OOP-Basics-Encapsulation\\03. CSharp-OOP-Basics-Encapsulation-Exercises\\AnimalFarm\\AnimalFarm\\obj\\",
+      "projectPath": "/Users/teoharov/Developer/C#/C# OOP/OOP/AnimalFarm/AnimalFarm/AnimalFarm.csproj",
+      "packagesPath": "/Users/teoharov/.nuget/packages/",
+      "outputPath": "/Users/teoharov/Developer/C#/C# OOP/OOP/AnimalFarm/AnimalFarm/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\bdanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "/Users/teoharov/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -10,17 +10,6 @@
         {
             var lines = int.Parse(Console.ReadLine());
             var peoples = new List<Person>();
-            var newPlayer = new Person("Daniel", "Gerdjikov", 31, 4000);
-            var newPlayer2 = new Person("Daniel", "Gerdjikov", 31, 4000);
-            var newPlayer3 = new Person("Daniel", "Gerdjikov", 31, 4000);
-            var newPlayer4 = new Person("Daniel", "Gerdjikov", 31, 4000);
-            var newPlayer5 = new Person("Daniel", "Gerdjikov", 31, 4000);
-            var team = new Team("Daniels Team");
-
-            team.AddPlayer(newPlayer);
-            team.AddPlayer(newPlayer2);
-
-
 
 
             for (int i = 0; i < lines; i++)
