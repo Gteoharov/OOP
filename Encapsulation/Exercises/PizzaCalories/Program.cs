@@ -6,7 +6,7 @@
     {
         public static void Main(string[] args)
         {
-            string[] doughArgs = Console.ReadLine().Split(' ');
+            string[] doughArgs = Console.ReadLine().Split();
 
             string doughFlourType = doughArgs[1];
             string doughBakingTechnique = doughArgs[2];
@@ -18,7 +18,7 @@
                 Dough dough = new Dough(doughFlourType, doughBakingTechnique, weight);
                 Console.WriteLine(dough.CalculateCalories().ToString("f2"));
 
-                string[] toppingArgs = Console.ReadLine().Split(' ');
+                string[] toppingArgs = Console.ReadLine().Split();
 
                 string toppingType = toppingArgs[1];
                 double weightTopping = double.Parse(toppingArgs[2]);

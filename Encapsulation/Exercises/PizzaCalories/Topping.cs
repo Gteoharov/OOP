@@ -15,8 +15,8 @@
         {
             this.validToppingTypes = new Dictionary<string, double>();
             this.seedToppingType();
-            this.toppingType = toppingType;
-            this.weight = weight;
+            this.ToppingType = toppingType;
+            this.Weight = weight;
         }
 
         public string ToppingType
