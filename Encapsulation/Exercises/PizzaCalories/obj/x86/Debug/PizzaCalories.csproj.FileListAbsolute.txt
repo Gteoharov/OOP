@@ -1,0 +1,6 @@
+/Users/teoharov/Developer/C#/C# OOP/OOP/Encapsulation/Exercises/PizzaCalories/bin/Debug/PizzaCalories.exe
+/Users/teoharov/Developer/C#/C# OOP/OOP/Encapsulation/Exercises/PizzaCalories/bin/Debug/PizzaCalories.pdb
+/Users/teoharov/Developer/C#/C# OOP/OOP/Encapsulation/Exercises/PizzaCalories/obj/x86/Debug/PizzaCalories.csprojAssemblyReference.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Encapsulation/Exercises/PizzaCalories/obj/x86/Debug/PizzaCalories.csproj.CoreCompileInputs.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Encapsulation/Exercises/PizzaCalories/obj/x86/Debug/PizzaCalories.exe
+/Users/teoharov/Developer/C#/C# OOP/OOP/Encapsulation/Exercises/PizzaCalories/obj/x86/Debug/PizzaCalories.pdb

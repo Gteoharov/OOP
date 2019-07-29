@@ -1,24 +1,27 @@
-﻿<Properties StartupConfiguration="{8111116D-32E9-4254-A83C-29D9B7FCB6F6}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ShoppingSpree/Person.cs">
+﻿<Properties StartupConfiguration="{C729BC57-19A8-4364-8393-ED8989482C34}|Default">
+  <MonoDevelop.Ide.ItemProperties.PizzaCalories FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PizzaCalories/Topping.cs">
     <Files>
-      <File FileName="ShoppingSpree/Program.cs" Line="15" Column="39" />
-      <File FileName="ShoppingSpree/Person.cs" Line="17" Column="10" />
-      <File FileName="ShoppingSpree/Product.cs" Line="10" Column="30" />
+      <File FileName="PizzaCalories/Program.cs" Line="9" Column="13" />
+      <File FileName="PizzaCalories/Pizza.cs" Line="7" Column="9" />
+      <File FileName="PizzaCalories/Dough.cs" Line="11" Column="1" />
+      <File FileName="PizzaCalories/Topping.cs" Line="5" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Exercises" expanded="True">
-            <Node name="Exercises" expanded="True" />
-            <Node name="ShoppingSpree" expanded="True">
-              <Node name="Person.cs" selected="True" />
+            <Node name="PizzaCalories" expanded="True">
+              <Node name="Topping.cs" selected="True" />
             </Node>
+            <Node name="ShoppingSpree" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ShoppingSpree PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.ItemProperties.Exercises PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
