@@ -31,7 +31,7 @@
             }
             private set
             {
-                if (!validFlourTypes.ContainsKey(value))
+                if (!validFlourTypes.ContainsKey(value.ToLower()))
                 {
                     throw new ArgumentException("Invalid type of dough.");
                 }
@@ -44,13 +44,13 @@
         {
             get
             {
-                return this.beckingTechnique;
+                return beckingTechnique;
             }
             private set
             {
-                if (!validBackingTechniques.ContainsKey(value))
+                if (!validBackingTechniques.ContainsKey(value.ToLower()))
                 {
-                    throw new ArgumentException("Invalid type of dough.");
+                    throw new ArgumentException("Invalid becking of becking.");
                 }
                 this.beckingTechnique = value;
             }
@@ -74,20 +74,21 @@
 
         public double CalculateCalories()
         {
-            return BaseDoughCalories * this.Weight * validBackingTechniques[this.BeckingTechnique] * validFlourTypes[this.FlourType];
+            return BaseDoughCalories * this.Weight * validBackingTechniques[this.BeckingTechnique.ToLower
+                ()] * validFlourTypes[this.FlourType.ToLower()];
         }
 
         private void SeedFlourTypes()
         {
-            this.validFlourTypes.Add("White", 1.5);
-            this.validFlourTypes.Add("Wholegrain", 1.0);
+            this.validFlourTypes.Add("white", 1.5);
+            this.validFlourTypes.Add("wholegrain", 1.0);
         }
 
         private void SeedBackingTechniques()
         {
-            this.validBackingTechniques.Add("Chrispy", 0.9);
-            this.validBackingTechniques.Add("Chewy", 1.1);
-            this.validBackingTechniques.Add("Homemade", 1.0);
+            this.validBackingTechniques.Add("crispy", 0.9);
+            this.validBackingTechniques.Add("chewy", 1.1);
+            this.validBackingTechniques.Add("homemade", 1.0);
         }
     }
 }

@@ -25,7 +25,7 @@
 
             private set
             {
-                if (!this.validToppingTypes.ContainsKey(value))
+                if (!this.validToppingTypes.ContainsKey(value.ToLower()))
                 {
                     throw new ArgumentException($"Cannot place {value} on top of your pizza.");
                 }
@@ -51,15 +51,15 @@
 
         private void seedToppingType()
         {
-            this.validToppingTypes.Add("Meat", 1.2);
-            this.validToppingTypes.Add("Veggies", 0.8);
-            this.validToppingTypes.Add("Cheese", 1.1);
-            this.validToppingTypes.Add("Sauce", 0.9);
+            this.validToppingTypes.Add("meat", 1.2);
+            this.validToppingTypes.Add("veggies", 0.8);
+            this.validToppingTypes.Add("cheese", 1.1);
+            this.validToppingTypes.Add("sauce", 0.9);
         }
 
         public double CalculateCalories()
         {
-            return BaseToppingCalories * weight * validToppingTypes[this.ToppingType];
+            return BaseToppingCalories * weight * validToppingTypes[this.ToppingType.ToLower()];
         }
     }
 }

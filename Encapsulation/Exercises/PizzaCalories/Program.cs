@@ -6,25 +6,41 @@
     {
         public static void Main(string[] args)
         {
-            string[] doughArgs = Console.ReadLine().Split();
-
-            string doughFlourType = doughArgs[1];
-            string doughBakingTechnique = doughArgs[2];
-
-            double weight = double.Parse(doughArgs[3]);
+            
 
             try
             {
+                string[] pizzaArgs = Console.ReadLine().Split();
+
+                string pizzaName = pizzaArgs[1];
+
+
+                string[] doughArgs = Console.ReadLine().Split();
+
+                string doughFlourType = doughArgs[1];
+                string doughBakingTechnique = doughArgs[2];
+                double weight = double.Parse(doughArgs[3]);
+
                 Dough dough = new Dough(doughFlourType, doughBakingTechnique, weight);
-                Console.WriteLine(dough.CalculateCalories().ToString("f2"));
+                Pizza pizza = new Pizza(pizzaName, dough);
 
-                string[] toppingArgs = Console.ReadLine().Split();
+                string inputLine = Console.ReadLine();
 
-                string toppingType = toppingArgs[1];
-                double weightTopping = double.Parse(toppingArgs[2]);
+                while(inputLine != "END")
+                {
+                    string[] toppingArgs = inputLine.Split();
 
-                Topping topping = new Topping(toppingType, weightTopping);
-                Console.WriteLine(topping.CalculateCalories().ToString("f2"));
+                    string toppingType = toppingArgs[1];
+                    double weightTopping = double.Parse(toppingArgs[2]);
+
+                    Topping topping = new Topping(toppingType, weightTopping);
+
+                    pizza.AddTopping(topping);
+
+                    inputLine = Console.ReadLine();
+                }
+
+                Console.WriteLine($"{pizza.Name} - {pizza.GetTotalCalories().ToString("f2")} Calories.");
             }
             catch (Exception ex)
             {
