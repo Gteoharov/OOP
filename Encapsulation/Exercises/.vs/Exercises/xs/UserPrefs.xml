@@ -1,20 +1,19 @@
 ﻿<Properties StartupConfiguration="{C729BC57-19A8-4364-8393-ED8989482C34}|Default">
   <MonoDevelop.Ide.ItemProperties.PizzaCalories PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PizzaCalories/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PizzaCalories/Topping.cs">
     <Files>
-      <File FileName="PizzaCalories/Program.cs" Line="9" Column="1" />
+      <File FileName="PizzaCalories/Program.cs" Line="9" Column="59" />
       <File FileName="PizzaCalories/Pizza.cs" />
       <File FileName="PizzaCalories/Dough.cs" />
-      <File FileName="PizzaCalories/Topping.cs" />
+      <File FileName="PizzaCalories/Topping.cs" Line="66" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Exercises" expanded="True">
             <Node name="PizzaCalories" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Topping.cs" selected="True" />
             </Node>
-            <Node name="ShoppingSpree" expanded="True" />
           </Node>
         </State>
       </Pad>
