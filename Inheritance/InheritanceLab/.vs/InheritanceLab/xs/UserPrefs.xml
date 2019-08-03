@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{B3A2B2E9-E4CD-4042-B1E0-6E2643FAD1C7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InheritanceLab/Program.cs">
+    <Files>
+      <File FileName="InheritanceLab/Program.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InheritanceLab" expanded="True">
+            <Node name="InheritanceLab" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.InheritanceLab FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
