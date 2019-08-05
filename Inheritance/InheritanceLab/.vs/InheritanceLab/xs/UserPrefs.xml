@@ -1,15 +1,16 @@
 ﻿<Properties StartupConfiguration="{B3A2B2E9-E4CD-4042-B1E0-6E2643FAD1C7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="InheritanceLab/Book.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InheritanceLab/GoldenEditionBook.cs">
     <Files>
       <File FileName="InheritanceLab/Program.cs" Line="9" Column="47" />
-      <File FileName="InheritanceLab/Book.cs" Line="71" Column="2" />
+      <File FileName="InheritanceLab/Book.cs" Line="67" Column="28" />
+      <File FileName="InheritanceLab/GoldenEditionBook.cs" Line="14" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="InheritanceLab" expanded="True">
             <Node name="InheritanceLab" expanded="True">
-              <Node name="Book.cs" selected="True" />
+              <Node name="GoldenEditionBook.cs" selected="True" />
             </Node>
           </Node>
         </State>
