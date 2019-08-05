@@ -1,0 +1,6 @@
+/Users/teoharov/Developer/C#/C# OOP/OOP/Inheritance/InheritanceLab/InheritanceLab/bin/Debug/InheritanceLab.exe
+/Users/teoharov/Developer/C#/C# OOP/OOP/Inheritance/InheritanceLab/InheritanceLab/bin/Debug/InheritanceLab.pdb
+/Users/teoharov/Developer/C#/C# OOP/OOP/Inheritance/InheritanceLab/InheritanceLab/obj/x86/Debug/InheritanceLab.csprojAssemblyReference.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Inheritance/InheritanceLab/InheritanceLab/obj/x86/Debug/InheritanceLab.csproj.CoreCompileInputs.cache
+/Users/teoharov/Developer/C#/C# OOP/OOP/Inheritance/InheritanceLab/InheritanceLab/obj/x86/Debug/InheritanceLab.exe
+/Users/teoharov/Developer/C#/C# OOP/OOP/Inheritance/InheritanceLab/InheritanceLab/obj/x86/Debug/InheritanceLab.pdb
